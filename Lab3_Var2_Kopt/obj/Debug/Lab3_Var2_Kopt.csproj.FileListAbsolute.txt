@@ -1,0 +1,7 @@
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\bin\Debug\Lab3_Var2_Kopt.exe.config
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\bin\Debug\Lab3_Var2_Kopt.exe
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\bin\Debug\Lab3_Var2_Kopt.pdb
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\obj\Debug\Lab3_Var2_Kopt.csproj.AssemblyReference.cache
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\obj\Debug\Lab3_Var2_Kopt.csproj.CoreCompileInputs.cache
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\obj\Debug\Lab3_Var2_Kopt.exe
+C:\Users\kopte\source\repos\Lab3_Var2_Kopt\obj\Debug\Lab3_Var2_Kopt.pdb
